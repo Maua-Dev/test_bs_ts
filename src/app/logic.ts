@@ -12,6 +12,7 @@
 // para trás (ela morreria na hora). Os TODOs marcam os próximos passos.
 // Documentação: https://docs.battlesnake.com
 
+// 43
 import { GameState, Coord } from "./models";
 
 // GET / — chamado quando você cadastra a cobra no site e a cada partida.
